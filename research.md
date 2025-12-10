@@ -15,6 +15,11 @@ that the main theorem in a previous work by Rhodes and Sullivant applied to. Thi
 
 
 ### Workshops
+
+IMSI New Directions in Algebraic Statistics Workshop, Summer 2025
+
+AMS MRC on Real Numerical Algebraic Geometry, Summer 2025 
+
 ICERM semester program- “Theory, Methods, and Applications of Quantitative Phylogenomics”, Fall 2024
 
 University of Hawaii Algebraic Methods in Phylogenetics Workshop, Summer 2024
@@ -26,24 +31,29 @@ IMSI Long Program- Algebraic Statistics and Our Changing World. Chicago,  Fall 2
 Joint MSRI-BIRS Graduate Summer School - Sums of Squares Method in Geometry, Combinatorics and Optimization. (BIRS) Kelowna, Canada, Summer 2022
 
 ### Presentations
-2024 International Symposium on Symbolic and Algebraic Computation, Poster: "A Description of the Polyhedral Geometry of Equidistant Phylogenetic Networks"
+2025 SIAM Conference on Applied Algebraic Geometry minisymposium on phylogenetic networks, Talk: “A Description of
+the Polyhedral Geometry of Equidistant Phylogenetic Networks”
 
-2024 Graduate Student Meeting in Applied Algebra and Combinatorics, Poster: "A Description of the Polyhedral Geometry of Equidistant Phylogenetic Networks"
+2025 Spring Southeastern AMS Sectional Meeting, Talk: “A Description of the Polyhedral Geometry of Equidistant Phylogenetic Networks”
+
+2025 Joint Mathematics Meeting AMS Special Session on MRC Algebraic Combinatorics, Talk: “Inversion sets of the Poset
+of the Cyclohedron”
+
+2024 UNCW Combinatorics and Probability Seminar, Talk: “A Description of the Polyhedral Geometry of Equidistant Phylogenetic Networks”
+
+2024 Brown University graduate student seminar, Talk: “A Description of the Polyhedral Geometry of Equidistant Phylogenetic Networks”
+
+2024 ICERM semester program: Theory, Methods, and Applications of Quantitative Phylogenomics, Talk: “U-Statistics applied to Phylogenetics”
+
+2024 ICERM Theory, Methods, and Applications of Quantitative Phylogenomics graduate students seminar, Talk: “A Description of the Polyhedral Geometry of Equidistant Phylogenetic Networks”
 
 2024 Graduate Students Combinatorics Conference, Talk: "A Description of the Polyhedral Geometry of Equidistant Phylogenetic Networks"
 
-2024 Graduate Recruitment Weekend , Talk: "A Description of the Polyhedral Geometry of Equidistant Phylogenetic Networks"
+2024 Graduate Recruitment Weekend, Talk: "A Description of the Polyhedral Geometry of Equidistant Phylogenetic Networks"
 
-2024 Joint Mathematics Meeting, Talk: "A Description of the Polyhedral Geometry of Equidistant Phylogenetic Networks"
-
-2023  Meeting on Applied Algebraic Geometry, Poster "Equidistant Circular Rooted Split Network Space" 
-
-2019 Joint Mathematics Meeting, Poster “Fair Division for Drawing Legislative Districts”
+2024 Joint Mathematics Meeting AMS Special Session on Algebraic Approaches to Mathematical Biology, Talk: "A Description of the Polyhedral Geometry of Equidistant Phylogenetic Networks"
 
 2019 National Conference on Undergraduate Research, Talk: “Fair Division for Drawing Legislative Districts”
 
 2018 SIAM LA-TX conference, Talk: “Fair Division for Drawing Legislative Districts”
 
-2018 Joint Mathematics Meeting, Poster: “One-Bit Johnson-Lindenstrauss Lemma”
-
-2017 Young Mathematicians Conference, Poster: “One-Bit Johnson-Lindenstrauss Lemma”
