@@ -2,6 +2,11 @@
 layout: page
 title: "Teaching"
 ---
+Fall 2025 Instructor of Record for 3 sections of MA 1329. Mathematics for Business and Economics II at Texas State.
+
+Fall 2025 Instructor of Record for MA 2473 Integral Calculus with Multivariables and Series at Texas State.
+
+Spring 2025 Instructor of Record for MA 241 Calculus 2 at NC State
 
 Fall 2024 Instructor of Record  for MA 405 Introduction to Linear Algebra and Matrices at NC State
 
