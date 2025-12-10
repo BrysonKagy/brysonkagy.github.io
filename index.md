@@ -5,10 +5,10 @@ title: "Home"
 
  <img src="assets/IMG_5346.jpeg" alt="pic" width="300"/> 
 
- I am a graduate student in the department of mathematics at North Carolina State University. My advisor is [Seth Sullivant](https://sethsullivant.wordpress.ncsu.edu/).
+ I am a Lecturer at Texas State University. I got my PhD in the department of mathematics at North Carolina State University. My advisor was [Seth Sullivant](https://sethsullivant.wordpress.ncsu.edu/).
  
  **Contact:**
-- SAS Hall 4223
+- Derrick  Hall 303
 - Department of Mathematics
-- North Carolina State University 
-- Email: bgkagy@ncsu.edu 
+- Texas State University 
+- Email: BrysonKagy@txstate.edu 
