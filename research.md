@@ -11,7 +11,7 @@ statistics and some problems in the area of algebraic combinatorics, understandi
 order to solve combinatorics conjectures. As a researcher I am passionate about collaborating with people
 from disparate areas and learning new topics that I can apply to my own work.
 
-### The Coalescent Model and Quintets.
+### The Coalescent Model and Quintets
 One current area of focus is on identifiblity under the Coalescent Model. The Multispecies Coalescent Model (MSC) on a tree, or
 its network analog (NMSC) when hybridization or introgression have occurred, is commonly adopted to allow
 for the population-genetic effect of incomplete lineage sorting and the conflicting topological signal it leads
