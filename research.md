@@ -34,11 +34,11 @@ ICERM semester program- “Theory, Methods, and Applications of Quantitative Phy
 
 University of Hawaii Algebraic Methods in Phylogenetics Workshop, Summer 2024
 
-AMS MRC on Algebraic Combinatorics- Summer 2024
+AMS MRC on Algebraic Combinatorics, Summer 2024
 
 IMSI Long Program- Algebraic Statistics and Our Changing World. Chicago,  Fall 2023 
 
-Joint MSRI-BIRS Graduate Summer School - Sums of Squares Method in Geometry, Combinatorics and Optimization. (BIRS) Kelowna, Canada, Summer 2022
+Joint MSRI-BIRS Graduate Summer School - Sums of Squares Method in Geometry, Combinatorics and Optimization, Summer 2022
 
 ### Presentations
 2025 SIAM Conference on Applied Algebraic Geometry minisymposium on phylogenetic networks, Talk: “A Description of
