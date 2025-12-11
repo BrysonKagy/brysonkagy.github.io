@@ -2,16 +2,26 @@
 layout: page
 title: "Research"
 ---
-### The Cone of Equidistant Circular Split Networks
-My main research interests are in Algebraic Statistics and Algebraic Combinatorics, especially how they relate to  phylogenetic trees. My current thesis work is on equidistant circular network space. Phylogenetic networks are generalizations of phylogenetic trees which allow for some limited non-tree edges. Biologically, such edges can  be introduced through processes like reticulation events and hybridization. One such natural type of phylogenetic network is the circular split network. My research project is characterizing  the polyhedral geometry of distance matrices built from circular split systems which have the added property of being equidistant.  I have given a characterization of the facet defining inequalities and the extreme rays of the cone of distances that arises from an equidistant network associated to any circular split network. 
+### Algebraic Statistics applied to Phylogenetics
+My main research interests are in algebraic statistics and algebraic combinatorics, especially focusing on
+problems related to phylogenetics. My goal is to take biological problems, explore the inherent discrete
+or combinatorial structure they have, and utilize this to prove useful facts about the system. My work
+also encompasses problems in algebraic statistics, using algebraic structures to prove problems inspired by
+statistics and some problems in the area of algebraic combinatorics, understanding the algebraic structure in
+order to solve combinatorics conjectures. As a researcher I am passionate about collaborating with people
+from disparate areas and learning new topics that I can apply to my own work.
 
-
-### Chromatic Symmetric Functions of Trees
- I have been collaborating with Spencer Daughtry on a project looking at chromatic symmetric functions of trees. We’ve been working on a bijection between stable matchings of vertices and set partitions of edges. We are investigating the properties of this potential bijection and ultimately we hope that this will lead to some results related to Stanely’s conjecture about uniquely defining trees by their chromatic symmetric functions.
-
-### Identifiability of Phylogenetic Mixture Models
-Prior research under Seth Sullivant was a paper with the goal of broadening the class of models
-that the main theorem in a previous work by Rhodes and Sullivant applied to. This previous papers gave conditions for when a phylogenetic mixture model with an underlying General Markov Modelwas identifiable. The work I did expanded this condition to make statements about identifiability of some specific group-based models specifically the Jukes-Cantor (JC), Kimura 2 parameter model(K2P), Kimura 3 parameter model (K3P) and the Strand Symmetric model (SSM). 
+### The Coalescent Model and Quintets.
+One current area of focus is on identifiblity under the Coalescent Model. The Multispecies Coalescent Model (MSC) on a tree, or
+its network analog (NMSC) when hybridization or introgression have occurred, is commonly adopted to allow
+for the population-genetic effect of incomplete lineage sorting and the conflicting topological signal it leads
+to in gene relationships. In joint work with Joe Cummings, Maize Curiel, Bryan Currie, Udani Ranasinghe, John Rhodes, we
+focus on quintet concordance factors (CF5s), the probabilities of the 15 unrooted 5-taxon gene trees arising
+under the MSC model, to investigate their potential for providing additional inference capability beyond that
+of quartet concordance factors (CF4s), their widely-used 4 taxon analog.
+Motivated by the fact that CF5s encode root information beyond that of CF4s, we investigate whether
+they may also allow for identification of other features that cannot be addressed through CF4s, specifically,
+2-cycles and the root location.
 
 
 ### Workshops
